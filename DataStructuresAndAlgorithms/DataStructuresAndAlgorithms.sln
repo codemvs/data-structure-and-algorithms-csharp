@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAndAlgorithms.App", "DataStructuresAndAlgorithms.App\DataStructuresAndAlgorithms.App.csproj", "{94D7CCB6-BBE0-41D1-B2EC-B857C20E1B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAndAlgorithms.SortingAlgorithms", "DataStructuresAndAlgorithms.SortingAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms.csproj", "{61E353BF-2EBB-4B77-A200-61A12A24FEDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94D7CCB6-BBE0-41D1-B2EC-B857C20E1B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D7CCB6-BBE0-41D1-B2EC-B857C20E1B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D7CCB6-BBE0-41D1-B2EC-B857C20E1B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D7CCB6-BBE0-41D1-B2EC-B857C20E1B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E353BF-2EBB-4B77-A200-61A12A24FEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E353BF-2EBB-4B77-A200-61A12A24FEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E353BF-2EBB-4B77-A200-61A12A24FEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E353BF-2EBB-4B77-A200-61A12A24FEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2C18ACF-9A09-45EA-A2A9-95D001E9C670}
+	EndGlobalSection
+EndGlobal

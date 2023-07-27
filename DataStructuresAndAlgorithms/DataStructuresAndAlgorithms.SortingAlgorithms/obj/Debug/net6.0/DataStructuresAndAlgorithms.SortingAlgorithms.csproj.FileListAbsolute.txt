@@ -1,0 +1,12 @@
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\bin\Debug\net6.0\DataStructuresAndAlgorithms.SortingAlgorithms.deps.json
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\bin\Debug\net6.0\DataStructuresAndAlgorithms.SortingAlgorithms.dll
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\bin\Debug\net6.0\DataStructuresAndAlgorithms.SortingAlgorithms.pdb
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.SortingAlgorithms.AssemblyInfo.cs
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.SortingAlgorithms.dll
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\obj\Debug\net6.0\refint\DataStructuresAndAlgorithms.SortingAlgorithms.dll
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\obj\Debug\net6.0\DataStructuresAndAlgorithms.SortingAlgorithms.pdb
+C:\Training\svn\data-structure-and-algorithms-csharp\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.SortingAlgorithms\obj\Debug\net6.0\ref\DataStructuresAndAlgorithms.SortingAlgorithms.dll
